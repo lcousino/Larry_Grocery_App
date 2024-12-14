@@ -3,3 +3,7 @@
 ### Initial Version
 - Added core functionalities covered in Day 3, including lists, tuples, dictionaries, and sets.
 - Implemented changelog and version control instructions.
+
+## [0.2.0] - YYYY-MM-DD
+### Added
+- Day 3 exercises for list, tuples, disctionaries, sets
