@@ -7,3 +7,7 @@
 ## [0.2.0] - YYYY-MM-DD
 ### Added
 - Day 3 exercises for list, tuples, disctionaries, sets
+
+## [0.3.0] - YYYY-MM-DD
+### Added
+- Day 3 exercises for loops, conditonal statements, and error handling.
