@@ -11,3 +11,7 @@
 ## [0.3.0] - YYYY-MM-DD
 ### Added
 - Day 3 exercises for loops, conditonal statements, and error handling.
+
+## [0.5.0] - YYYY-MM-DD
+### Added
+- Day 5 created modules and base structure for grocery list app.
